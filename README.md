@@ -15,6 +15,6 @@ Despite the fact that CSE is one of the engineering specializations, candidates 
 </bgcolor>
 </body>
 </html>
-![image](https://github.com/user-attachments/assets/bb7dcc0b-c66e-4508-9f90-47f808d40840)
+
 
 
