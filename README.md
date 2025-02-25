@@ -10,11 +10,11 @@ The course covers a wide range of subjects while highlighting the fundamentals o
 
 Despite the fact that CSE is one of the engineering specializations, candidates undertaking the curriculum can choose from a variety of other specializations such as telecommunications, web design, computer hardware and software implementation and maintenance, and so on.</p>
 <marquee>“Be sure you put your feet in the right place, then stand firm.”</marquee>
-![cs](https://github.com/user-attachments/assets/e80e962b-8bc0-406a-ad51-defebf5aa329)
+
 
 </bgcolor>
 </body>
 </html>
-
+![cs](https://github.com/user-attachments/assets/e80e962b-8bc0-406a-ad51-defebf5aa329)
 
 
